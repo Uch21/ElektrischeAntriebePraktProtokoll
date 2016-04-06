@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.22)  6 APR 2016 22:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.22)  6 APR 2016 23:05
 entering extended mode
 **Protokoll_Labor_Elektrische_Antriebstechnik.tex
 (Protokoll_Labor_Elektrische_Antriebstechnik.tex
@@ -924,7 +924,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 152.
 Here is how much of TeX's memory you used:
  19773 strings out of 493673
  387153 string characters out of 3141530
- 456026 words of memory out of 3000000
+ 456022 words of memory out of 3000000
  22714 multiletter control sequences out of 15000+200000
  18138 words of font info for 49 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
@@ -937,7 +937,7 @@ les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files
 86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKT
 eX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
 Output written on Protokoll_Labor_Elektrische_Antriebstechnik.pdf (4 pages, 195
-567 bytes).
+760 bytes).
 PDF statistics:
  80 PDF objects out of 1000 (max. 8388607)
  10 named destinations out of 1000 (max. 500000)
