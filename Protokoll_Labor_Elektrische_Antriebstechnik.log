@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.22)  6 APR 2016 23:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.4.26)  26 APR 2016 14:13
 entering extended mode
-**Protokoll_Labor_Elektrische_Antriebstechnik.tex
+**./Protokoll_Labor_Elektrische_Antriebstechnik.tex
 (Protokoll_Labor_Elektrische_Antriebstechnik.tex
-LaTeX2e <2015/01/01> patch level 2
-Babel <3.9m> and hyphenation patterns for 69 languages loaded.
+LaTeX2e <2015/10/01> patch level 2
+Babel <3.9n> and hyphenation patterns for 69 languages loaded.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\report.cls"
 Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size11.clo"
@@ -739,6 +739,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \Hy@SectionHShift=\skip69
 )
 (protokolldaten.tex) (Protokoll_Labor_Elektrische_Antriebstechnik.aux)
+\openout1 = `Protokoll_Labor_Elektrische_Antriebstechnik.aux'.
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 140.
 LaTeX Font Info:    ... okay on input line 140.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 140.
@@ -823,6 +825,8 @@ LaTeX Info: Redefining \nameref on input line 140.
 (Protokoll_Labor_Elektrische_Antriebstechnik.out)
 (Protokoll_Labor_Elektrische_Antriebstechnik.out)
 \@outlinefile=\write4
+\openout4 = `Protokoll_Labor_Elektrische_Antriebstechnik.out'.
+
 LaTeX Font Info:    Try loading font information for U+msa on input line 142.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
@@ -918,17 +922,17 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 152.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 152.
 Package rerunfilecheck Info: File `Protokoll_Labor_Elektrische_Antriebstechnik.
 out' has not changed.
-(rerunfilecheck)             Checksum: C6FE4886AE71952B2A256657ED969D83;312.
+(rerunfilecheck)             Checksum: 3BAA5A4D8968C13DCD345B91D95B9B22;282.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 152.
  ) 
 Here is how much of TeX's memory you used:
- 19773 strings out of 493673
- 387153 string characters out of 3141530
- 456022 words of memory out of 3000000
- 22714 multiletter control sequences out of 15000+200000
+ 19773 strings out of 493634
+ 387140 string characters out of 3141314
+ 456132 words of memory out of 3000000
+ 22751 multiletter control sequences out of 15000+200000
  18138 words of font info for 49 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 55i,11n,68p,453b,650s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,11n,68p,455b,650s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
 m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program 
 Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Fi
@@ -936,8 +940,8 @@ les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files
  (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x
 86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKT
 eX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on Protokoll_Labor_Elektrische_Antriebstechnik.pdf (4 pages, 195
-760 bytes).
+Output written on Protokoll_Labor_Elektrische_Antriebstechnik.pdf (4 pages, 193
+840 bytes).
 PDF statistics:
  80 PDF objects out of 1000 (max. 8388607)
  10 named destinations out of 1000 (max. 500000)
