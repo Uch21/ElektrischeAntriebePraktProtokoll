@@ -9,11 +9,11 @@
 %Zählers + 1
 %\setcounter{chapter}{0}
 %
-\chapter{Auch ein Aufgabentitel}\label{ex:einsinnvolleslabel2}
+\chapter{}\label{ex:aufg2}
 %
 %Teilaufgabe 1
 %
-\section{}\label{sec:einsinnvolleslabel2}
+\section{}\label{sec:aufg2a}
 %
 
 %
@@ -21,9 +21,44 @@
 %
 %Teilaufgabe 2
 %
-\section{}\label{sec:einsinnvolleslabel3}
+\section{}\label{sec:aufg2b}
 %
 
 %
+\section{}\label{sec:aufg2c}
+%
+
+%
+\section{}\label{sec:aufg2d}
+%
+Wir nutzen die Formel 5.9 aus dem Vorlesungsskript.
+\begin{equation}
+U_a = R_a I_a + L_a \frac{dI_a}{dt} + U_I
+\label{for:formel1}
+\end{equation}
+Da \[U_I = 0\]kommen wir zu folgender Formel:
+\begin{equation}
+I_a = \frac{U_a - L_a \frac{dI_a}{dt}}{R_a}
+\label{for:formel2}
+\end{equation}
+%
+\newline
+\newline
+%
+\begin{tikzpicture} [trim axis left]
+\begin{axis}[domain=0:10,
+samples=100,
+enlarge x limits=false,
+grid=both,
+no markers,
+axis equal]
+\addplot[blue, ultra thick] (x,{\x});
+\end{axis}
+\end{tikzpicture}
+
+
+
+%\include{graph_aufgabe2}
+
 %Alle bisherigen Bilder einfügen und einen Seitenumbruch erzwingen
 \clearpage
