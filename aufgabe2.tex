@@ -15,7 +15,7 @@
 %
 \section{}\label{sec:aufg2a}
 %
-In den folgenden Graphiken (siehe Abb. \ref{dia:aufg2a_hall})sehen Sie die Signale der Hallsensoren(siehe Abb. \ref{dia:aufg2a_hall}) und die idealisierten Stromverläufe(siehe Abb. \ref{dia:aufgabe2a_strom}).
+In den folgenden Graphiken (siehe Abb. \ref{dia:aufg2a_hall}) sehen Sie die Signale der Hallsensoren (siehe Abb. \ref{dia:aufg2a_hall}) und die idealisierten Stromverläufe (siehe Abb. \ref{dia:aufgabe2a_strom}).
 \input{./Bilder/2a_HallSensoren}
 \input{./Bilder/2a_Stromverlaufe}
 \newpage
@@ -26,12 +26,12 @@ In den folgenden Graphiken (siehe Abb. \ref{dia:aufg2a_hall})sehen Sie die Signa
 %
 \section{}\label{sec:aufg2b}
 %
-In dem folgenden Diagramm (siehe Abb.\ref{dia:2b_ansteuersig}) werden die Ansteuersignale der sechs Transistoren für den Rechtslauf dargestellt. Der Einfachheit halber werden für $W$,$V$ und $U$ je Highside leitend als $1$, Lowside leitend als $-1$ und gesperrt als $0$ bezeichnet. Somit gleichen die Ansteuersignale dem idealisierten Stromverlauf aus dem Skript elektische Antriebe S.102, Abb. 8.3.
+Im folgenden Diagramm (siehe Abb.\ref{dia:2b_ansteuersig}) werden die Ansteuersignale der sechs Transistoren für den Rechtslauf dargestellt. Der Einfachheit halber werden für $W$,$V$ und $U$ je Highside leitend als $1$, Lowside leitend als $-1$ und gesperrt als $0$ bezeichnet. Somit gleichen die Ansteuersignale dem idealisierten Stromverlauf aus dem Skript elektische Antriebe S.102, Abb. 8.3.
 \input{./Bilder/2b_ansteuersig}
 %
 \section{}\label{sec:aufg2c}
 %
-Die Ansteuerung der Transistoren entspricht wir in (\ref{sec:aufg2b}) erwähnt  dem idealisierten Stromverlauf.
+Die Ansteuerung der Transistoren entspricht wie in (\ref{sec:aufg2b}) erwähnt  dem idealisierten Stromverlauf.
 \input{./Bilder/2c_ansteuersig}
 %
 \newpage
@@ -43,22 +43,23 @@ Wir nutzen die Formel 5.9 aus dem Vorlesungsskript S.41.
 	\label{for:formel1}
 \end{equation}
 
-Da $U_I = 0$ kommen wir zu folgender Formel:
+Mit $U_I = 0$ gilt:
 \begin{equation}
-	I_a(t) = \frac{U_a - L_a \frac{dI_a(t)}{dt}}{R_a}
+    L_a\frac{dI_a(t)}{dt} + R_a I_a(t) = U_a
 	\label{for:formel2}
 \end{equation}
 
-Umgeformt ergibt das:
+Umgeformt ergibt sich:
 \begin{equation}
 	\tau\frac{dI_a(t)}{dt} + I_a(t) = \frac{U_a}{R_a}
 \end{equation}
 
-Die Lösung der Differentialgleichung ergibt:
+Wobei für die Zeitkonstante $\tau = \frac{L_a}{R_a}$ gilt.\\
+Die Lösung dieser Differentialgleichung lautet:
 \begin{equation}
 	I_a(t) = \frac{U_a}{R_a}(1-e^-\frac{t-1ms}{\tau})
 \end{equation}
-Für $R_a = 0.8 \Omega$ und $L_a = 1.1 mH$ und einem Spannungsverlauf, wie im Srkipt (siehe S.105 Abb. 8.7) dargestellt, ergibt es im Strang U einen Ankerstrom der folgendermaßen verläuft(siehe Abb.\ref{fig:ankerstrom}):
+Für $R_a = 0.8 \Omega$ und $L_a = 1.1 mH$ und einem Spannungsverlauf, wie im Skript (siehe S.105 Abb. 8.7) dargestellt, ergibt es im Strang U einen Ankerstrom der folgendermaßen verläuft (siehe Abb.\ref{fig:ankerstrom}):
 \begin{figure}[htb]
 	\includegraphics[width=\textwidth]{./Bilder/Ankerstrom_Aufgabe2d}
 	\caption{Verlauf des Ankerstroms}
