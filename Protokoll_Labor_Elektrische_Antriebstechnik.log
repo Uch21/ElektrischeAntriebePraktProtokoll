@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.2.3)  28 APR 2016 16:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.2.3)  30 APR 2016 11:03
 entering extended mode
 **./Protokoll_Labor_Elektrische_Antriebstechnik.tex
 (Protokoll_Labor_Elektrische_Antriebstechnik.tex
@@ -1252,7 +1252,7 @@ l.21 \newpage
 
 
 ] (Bilder/2b_ansteuersig.tex) (Bilder/2c_ansteuersig.tex)
-[3] <./Bilder/Ankerstrom_Aufgabe2d.png, id=129, 1445.4pt x 689.57625pt>
+[3] <./Bilder/Ankerstrom_Aufgabe2d.png, id=128, 1445.4pt x 689.57625pt>
 File: ./Bilder/Ankerstrom_Aufgabe2d.png Graphic file (type png)
 
 <use ./Bilder/Ankerstrom_Aufgabe2d.png>
@@ -1266,7 +1266,7 @@ Kapitel 3.
 
 ]
 Kapitel 4.
-<./Bilder/bldc_aufgenommenSig.png, id=151, 726.46407pt x 616.55344pt>
+<./Bilder/bldc_aufgenommenSig.png, id=150, 726.46407pt x 616.55344pt>
 File: ./Bilder/bldc_aufgenommenSig.png Graphic file (type png)
 
 <use ./Bilder/bldc_aufgenommenSig.png>
@@ -1278,7 +1278,7 @@ Package pdftex.def Info: ./Bilder/bldc_aufgenommenSig.png used on input line 6.
  <./Bilder/bldc_aufgenommenSig.png>])
 (aufgabe5.tex [7]
 Kapitel 5.
-<./Bilder/Drehzahldrehmomentkennlinie.png, id=164, 1927.2pt x 906.38625pt>
+<./Bilder/Drehzahldrehmomentkennlinie.png, id=163, 1927.2pt x 906.38625pt>
 File: ./Bilder/Drehzahldrehmomentkennlinie.png Graphic file (type png)
 
 <use ./Bilder/Drehzahldrehmomentkennlinie.png>
@@ -1309,7 +1309,7 @@ Here is how much of TeX's memory you used:
  23065 multiletter control sequences out of 15000+200000
  27680 words of font info for 52 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 55i,11n,68p,944b,650s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,11n,68p,933b,650s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t
 1.enc}{C:/Program Files (x86)/MiKTeX/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc
 }<C:/Program Files (x86)/MiKTeX/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi1
@@ -1326,9 +1326,9 @@ ts/type1/public/cm-super/sfrm1095.pfb><C:/Program Files (x86)/MiKTeX/MiKTeX 2.9
  2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX/MiKTeX 
 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
 Output written on Protokoll_Labor_Elektrische_Antriebstechnik.pdf (11 pages, 72
-1897 bytes).
+7790 bytes).
 PDF statistics:
- 228 PDF objects out of 1000 (max. 8388607)
+ 227 PDF objects out of 1000 (max. 8388607)
  44 named destinations out of 1000 (max. 500000)
  203 words of extra memory for PDF output out of 10000 (max. 10000000)
 
