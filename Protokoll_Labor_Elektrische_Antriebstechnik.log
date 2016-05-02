@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.4.26)  2 MAY 2016 20:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.4.26)  2 MAY 2016 20:50
 entering extended mode
 **./Protokoll_Labor_Elektrische_Antriebstechnik.tex
 (Protokoll_Labor_Elektrische_Antriebstechnik.tex
@@ -979,7 +979,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip69
 )
-(protokolldaten.tex) (Protokoll_Labor_Elektrische_Antriebstechnik.aux)
+(protokolldaten.tex) (Protokoll_Labor_Elektrische_Antriebstechnik.aux
+(graph_aufgabe2.aux))
 \openout1 = `Protokoll_Labor_Elektrische_Antriebstechnik.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 144.
@@ -1173,16 +1174,9 @@ File: ./Bilder/Ankerstrom_Aufgabe2d.png Graphic file (type png)
 Package pdftex.def Info: ./Bilder/Ankerstrom_Aufgabe2d.png used on input line 6
 4.
 (pdftex.def)             Requested size: 469.47046pt x 223.97282pt.
- [4 <./Bilder/Ankerstrom_Aufgabe2d.png (PNG copy)>]
-\openout2 = `graph_aufgabe2.aux'.
-
-
-No file graph_aufgabe2.tex.
-) (aufgabe3.tex
+ [4 <./Bilder/Ankerstrom_Aufgabe2d.png (PNG copy)>]) (aufgabe3.tex
 Kapitel 3.
 (Bilder/3a_HallSensoren.tex)) (aufgabe4.tex [5
-
-
 
 
 ]
@@ -1215,7 +1209,7 @@ Kapitel 6.
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 161.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 161.
- (Protokoll_Labor_Elektrische_Antriebstechnik.aux (graph_aufgabe2.aux))
+ (Protokoll_Labor_Elektrische_Antriebstechnik.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 161.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 161.
 Package rerunfilecheck Info: File `Protokoll_Labor_Elektrische_Antriebstechnik.
@@ -1224,10 +1218,10 @@ out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 161.
  ) 
 Here is how much of TeX's memory you used:
- 20088 strings out of 493634
- 389733 string characters out of 3141314
- 466166 words of memory out of 3000000
- 22982 multiletter control sequences out of 15000+200000
+ 20089 strings out of 493634
+ 389750 string characters out of 3141314
+ 466602 words of memory out of 3000000
+ 22983 multiletter control sequences out of 15000+200000
  27680 words of font info for 52 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  55i,11n,68p,933b,650s stack positions out of 5000i,500n,10000p,200000b,50000s
