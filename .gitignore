@@ -2,6 +2,12 @@
 Thumbs.db
 ehthumbs.db
 
+#nervige Files
+.aux
+.log
+.pdf
+.gz
+
 # Folder config file
 Desktop.ini
 
