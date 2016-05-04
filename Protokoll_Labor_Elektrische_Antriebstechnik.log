@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.4.26)  2 MAY 2016 20:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.4.26)  4 MAY 2016 14:26
 entering extended mode
 **./Protokoll_Labor_Elektrische_Antriebstechnik.tex
 (Protokoll_Labor_Elektrische_Antriebstechnik.tex
@@ -979,8 +979,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip69
 )
-(protokolldaten.tex) (Protokoll_Labor_Elektrische_Antriebstechnik.aux
-(graph_aufgabe2.aux))
+(protokolldaten.tex) (Protokoll_Labor_Elektrische_Antriebstechnik.aux)
 \openout1 = `Protokoll_Labor_Elektrische_Antriebstechnik.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 144.
@@ -1138,9 +1137,9 @@ Package pdftex.def Info: ./Bilder/Silhouette_HSRT_045K.jpg used on input line 1
 (pdftex.def)             Requested size: 469.47046pt x 18.4034pt.
  [1
 
-{C:/Users/admin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Bilder/Lo
-go_HSRT_TEC_RGB.png> <./Bilder/Logo_HSRT_Schwarz.jpg> <./Bilder/Silhouette_HSRT
-_045K.jpg>] [2] (aufgabe1.tex
+{C:/Users/adminLen/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Bilder
+/Logo_HSRT_TEC_RGB.png> <./Bilder/Logo_HSRT_Schwarz.jpg> <./Bilder/Silhouette_H
+SRT_045K.jpg>] [2] (aufgabe1.tex
 Kapitel 1.
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1218,26 +1217,26 @@ out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 161.
  ) 
 Here is how much of TeX's memory you used:
- 20089 strings out of 493634
- 389750 string characters out of 3141314
- 466602 words of memory out of 3000000
- 22983 multiletter control sequences out of 15000+200000
+ 20085 strings out of 493634
+ 389683 string characters out of 3141305
+ 466166 words of memory out of 3000000
+ 22982 multiletter control sequences out of 15000+200000
  27680 words of font info for 52 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  55i,11n,68p,933b,650s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\admin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
-ecsl1095.pk> <C:\Users\admin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
-ec\dpi600\ecrm1095.pk> <C:\Users\admin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
-\jknappen\ec\dpi600\ecbx1200.pk>{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dv
-ips/fontname/8r.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmmi6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmmi8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-mr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8
-.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.p
-fb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Prog
-ram Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
+ <C:\Users\adminLen\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi6
+00\ecsl1095.pk> <C:\Users\adminLen\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkn
+appen\ec\dpi600\ecrm1095.pk> <C:\Users\adminLen\AppData\Local\MiKTeX\2.9\fonts\
+pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk>{C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmmi6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmmi8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+msy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb
+><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
 Output written on Protokoll_Labor_Elektrische_Antriebstechnik.pdf (11 pages, 70
 2284 bytes).
 PDF statistics:
