@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.4)  6 MAY 2016 19:52
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.4.26)  4 MAY 2016 14:26
+>>>>>>> origin/master
 entering extended mode
 **./Protokoll_Labor_Elektrische_Antriebstechnik.tex
 (Protokoll_Labor_Elektrische_Antriebstechnik.tex
@@ -1137,9 +1141,15 @@ Package pdftex.def Info: ./Bilder/Silhouette_HSRT_045K.jpg used on input line 1
 (pdftex.def)             Requested size: 469.47046pt x 18.4034pt.
  [1
 
+<<<<<<< HEAD
 {C:/Users/Dell/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Bilder/Log
 o_HSRT_TEC_RGB.png> <./Bilder/Logo_HSRT_Schwarz.jpg> <./Bilder/Silhouette_HSRT_
 045K.jpg>] [2] (aufgabe1.tex
+=======
+{C:/Users/adminLen/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Bilder
+/Logo_HSRT_TEC_RGB.png> <./Bilder/Logo_HSRT_Schwarz.jpg> <./Bilder/Silhouette_H
+SRT_045K.jpg>] [2] (aufgabe1.tex
+>>>>>>> origin/master
 Kapitel 1.
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1218,12 +1228,17 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 161.
  ) 
 Here is how much of TeX's memory you used:
  20085 strings out of 493634
+<<<<<<< HEAD
  389683 string characters out of 3141318
+=======
+ 389683 string characters out of 3141305
+>>>>>>> origin/master
  466166 words of memory out of 3000000
  22982 multiletter control sequences out of 15000+200000
  27680 words of font info for 52 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  55i,11n,68p,933b,650s stack positions out of 5000i,500n,10000p,200000b,50000s
+<<<<<<< HEAD
  <C:\Users\Dell\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\e
 csl1095.pk> <C:\Users\Dell\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec
 \dpi600\ecrm1095.pk> <C:\Users\Dell\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jk
@@ -1237,6 +1252,21 @@ b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:
 /Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program
  Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
+=======
+ <C:\Users\adminLen\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi6
+00\ecsl1095.pk> <C:\Users\adminLen\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkn
+appen\ec\dpi600\ecrm1095.pk> <C:\Users\adminLen\AppData\Local\MiKTeX\2.9\fonts\
+pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk>{C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmmi6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmmi8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+msy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb
+><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
+>>>>>>> origin/master
 Output written on Protokoll_Labor_Elektrische_Antriebstechnik.pdf (11 pages, 70
 2167 bytes).
 PDF statistics:
