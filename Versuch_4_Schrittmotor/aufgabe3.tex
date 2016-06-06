@@ -1,7 +1,32 @@
 \chapter{}\label{ex:aufg3}
 
 \section{}\label{sec:aufg3a}
+%
+Es wird ein Schrittmotor mit den Parametern
+\begin{equation}
+	M_H = 1.17~\mathrm{Nm},~Z_P = 50\mathrm{,	}~m = 2
+\end{equation}
+betrachtet. Auf den Schrittmotor wirkt ein Lastmoment von $M_L = 0.585$~Nm. Gesucht wird der mechanische Winkel $\gamma_{mL}$, um den der Schrittmotor aus der Ruhelage im unbelasteten Zustand ausgelenkt wird.
 
+Mit der Formel aus dem Skript
+\begin{equation}
+	M_L = M_{Mi} = M_H sin(\gamma_S - \gamma_L) ~\mathrm{und}~ \gamma = Z_P \cdot \gamma_m
+\end{equation}
+ergibt sich für $\gamma_L$
+\begin{equation}
+	\gamma_L = \gamma - arcsin (\frac{M_L}{M_H})
+\end{equation}
+daraus folgt
+\begin{equation}
+	\gamma_{mL} = \frac{1}{Z_P}(\gamma_S - arcsin(\frac{M_L}{M_H}))~\mathrm{mit}~ \gamma_S = 0\mathrm{.}
+\end{equation}
+Eingesetzt ergibt sich
+\begin{equation}
+	\gamma{mL} = \frac{1}{50}(-arcsin(\frac{0.585\mathrm{Nm}}{1.17\mathrm{Nm}})) =-0,6^\circ
+\end{equation}
+
+
+%
 \section{}\label{sec:aufg3b}
 Aus Abbildung 7.4 des Elektrische Antriebe Skriptes ist ersichtlich, dass der Drehmomentverlauf eines Schrittmotors in Abhängigkeit von der Rotorlage die Periodenlänge $\gamma = 360^\circ$ besitzt. Dabei handelt es sich um den elektrischen Winkel $\gamma$. Im in der Aufgabenstellung gegebenen Diagramm ist jedoch der mechanische Winkel $\gamma_m$ eingetragen, für den gilt
 \begin{equation}
