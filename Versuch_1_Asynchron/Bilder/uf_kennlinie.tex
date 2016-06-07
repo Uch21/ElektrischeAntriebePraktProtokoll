@@ -1,0 +1,25 @@
+\begin{figure}[htb]
+	\begin{tikzpicture}
+	
+	% labels
+	\draw	(-.5,5.25) node[anchor=north] {317};
+	\draw	(7,-0.25) node[anchor=north] {50};
+	\draw	(14,-0.25) node[anchor=north] {100};
+	
+	% horizontal axis
+	\draw[->] (0,0) -- (15,0) node[anchor=north] {$f/\mathrm{Hz}$};
+	\draw[red] (0,0) -- (7,5) ;
+	\draw[red, thick] (7,5) -- (14,5);
+	\draw[dashed] (7,5) -- (7,0);
+	\draw[dashed] (7,5) -- (0,5);
+	\draw (14,-0.2) -- (14, 0.2);
+	\draw (7,-0.2) -- (7, 0.2);
+	
+	
+	% vertical axis
+	\draw[->] (0,0) -- (0,6) node[anchor=east] {$U/\mathrm{V}$};
+		
+	\end{tikzpicture}
+	\caption{$U/f$-Kennlinie}
+	\label{dia:uf_kennlinie}
+\end{figure}
