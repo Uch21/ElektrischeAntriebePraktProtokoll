@@ -1,19 +1,28 @@
 \chapter{}\label{ex:aufg4}
 %
 \section{}\label{sec:aufg4a}
-Da die Drehzahl $N$ einer Asynchronmaschine die Abhängigkeit
+Die hier dargestellte Gleichung (\ref{eq:Rotorkf}) entspricht der Gleichung (6.49) aus dem Skript Elektrische Antriebe und gibt die Beziehung zwischen mechanischer Rotorkreisfrequenz $\Omega_{Rm} = 2\pi \cdot N$, Statorkreisfrequenz $\Omega_1$, Polpaarzahl $Z_P$ und Schlupf $s$ an.
 \begin{equation}
-	N = \frac{f}{Z_P}\cdot \left(\frac{60~\text{s}}{\text{min}}\right)
+	\Omega_{Rm} = \frac{\Omega_1}{Z_P}\cdot (1-s)
+	\label{eq:Rotorkf}
+\end{equation}
+Beim Betrieb der Asynchronmaschine am starren Netz entspricht die Statorfrequenz $f_1 = \frac{\Omega_1}{2\pi}$ der Netzfrequenz. Außerdem gilt die Beziehung $s = \frac{f_2}{f_1}$, wobei $f_2$ die Schlupffrequenz ist. Somit ergibt sich
+\begin{equation}
+	N = \frac{f_1 - f_2}{Z_P}
 	\label{eq:Drehzahl}
 \end{equation}
-von der Netzfrequenz $f$ und der Polpaarzahl $Z_P$  hat, ergibt sich daraus für $Z_P$
+Da außer der Polpaarzahl auch die Schlupffrequenz unbekannt ist, müssen verschiedene Werte für $Z_P$ ausprobiert werden. Mithilfe des sich ergebenden Wertes für die Schlupffrequenz kann eine Plausibilitätsbetrachtung durchgeführtund die richtige Polpaarzahl bestimmt werden. Dazu können die Beziehungen
 \begin{equation}
-	Z_P = \frac{f}{N}\cdot \left(\frac{60~\text{s}}{\text{min}}\right)
+    N_0 = \frac{f_1}{Z_P}
 \end{equation}
-%
+\begin{equation}
+    N_2 = \frac{f_2}{Z_P} = N_N - N_0
+\end{equation}
+verwendet werden. Dabei ist $N_0$ die Leerlaufdrehzahl, $N_N$ die auf dem Typenschild angegebene Nenndrehzahl und $N_2$ die Schlupfdrehzahl.
 
 \section{}\label{sec:aufg4b}
-Die Asynchronmaschine im Versuch wird mit $f = 50$ Hz betrieben und hat eine Nenndrehzahl $N_N = 1370 \mathrm{min}^{-1}$, somit ergibt sich eine Polpaarzahl von
-\begin{equation}
-	Z_P = \frac{50~\text{Hz}}{1370~\text{min}^{-1}} \cdot \left(\frac{60~\text{s}}{\text{min}}\right) \approx 2
-\end{equation}
+Die Asynchronmaschine im Versuch wird mit $f_1 = 50~\text{Hz} = 3000~\text{min}^{-1}$ betrieben und hat eine Nenndrehzahl $N_N = 1370~\text{min}^{-1}$. Mit diesen Angaben kann nach Teilaufgabe \ref{sec:aufg4a}) die Polpaarzahl bestimmt werden:
+\begin{description}
+    \item[$Z_P = 1$:] Mit $Z_P = 1$ ergibt sich $N_0 = 3000~\text{min}^{-1}$ und damit $N_2 = 1630~\text{min}^{-1}$. Diese Schlupfdrehzahl ist viel zu hoch. Deshalb kann $Z_P = 1$ ausgeschlossen werden.
+    \item[$Z_P = 2$:] Man erhält die Leerlaufdrehzahl $N_0 = 1500~\text{min}^{-1}$. Somit würde die Schlupfdrehzahl $N_2 = 130~\text{min}^{-1}$ betragen. Dieser Wert ist plausibel.
+\end{description}
